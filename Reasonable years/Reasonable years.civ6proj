@@ -23,7 +23,7 @@ TBD</Description>
     <AssemblyName>Reasonable years</AssemblyName>
     <RootNamespace>Reasonable years</RootNamespace>
     <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DietyCalendarUpdate"><Criteria>Setup Diety Difficulty</Criteria><File>DietyCalendar.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
-    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="Setup Diety Difficulty" /></ActionCriteria>]]></ActionCriteriaData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="Setup Diety Difficulty"><ConfigurationValueMatches><GameDifficulty>DIFFICULTY_DEITY</GameDifficulty></ConfigurationValueMatches></Criteria></ActionCriteria>]]></ActionCriteriaData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
