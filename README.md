@@ -8,7 +8,7 @@ Maybe you even beat Diety on a regular basis?
 In either case you may have noticed some discrepancy: you can easily into space in... 1860 AD.
 
 Unrealistic, isnt it? Not anymore!
-Whith reasonable years game turns will correlate more reasonable with years shown.
+With reasonable years game turns will correlate more reasonable with years shown.
 As you will see later, for the same % of gamelenght in turns there will be more years passed.
 For example, what was year 1944 in vanilla - will be 2010 in modded game.
 
