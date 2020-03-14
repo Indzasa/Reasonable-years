@@ -1,7 +1,7 @@
 # Reasonable-years
 This is a mod for Civilization 6. You may be interested in the mod if you like the game.
 
-Do you play on more then average difficulty calmly?
+Do you play more then average difficulty calmly?
 
 Maybe you even beat Diety on a regular basis?
 
