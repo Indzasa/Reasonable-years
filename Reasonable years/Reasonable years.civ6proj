@@ -6,16 +6,18 @@
     <Guid>239947ea-909f-4a51-a2fc-278f52a0cd48</Guid>
     <ProjectGuid>893112b1-d225-4191-bb98-f60639a502a6</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>This is a brief description of the mod.
-...
-TBD</Teaser>
-    <Description>This is a brief description of the mod.
-...
-TBD</Description>
+    <Teaser>With it game turns will correlate more reasonable with years shown.</Teaser>
+    <Description>Do you play on more then average difficulty calmly?
+
+Maybe you even beat Diety on a regular basis?
+
+In either case you may have noticed some discrepancy: you can easily into space in... 1860 AD.
+
+Unrealistic, isnt it? Not anymore! With reasonable years game turns will correlate more reasonable with years shown. As you will see later, for the same % of gamelenght in turns there will be more years passed. For example, what was year 1944 in vanilla - will be 2010 in modded game.</Description>
     <Authors>Indzasa</Authors>
     <SpecialThanks>
     </SpecialThanks>
-    <AffectsSavedGames>true</AffectsSavedGames>
+    <AffectsSavedGames>false</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>
@@ -24,6 +26,7 @@ TBD</Description>
     <RootNamespace>Reasonable years</RootNamespace>
     <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DietyCalendarUpdate"><Criteria>Setup Diety Difficulty</Criteria><File>DietyCalendar.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="Setup Diety Difficulty" /></ActionCriteria>]]></ActionCriteriaData>
+    <Homepage>http://github.com/Indzasa/Reasonable-years</Homepage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
