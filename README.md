@@ -9,7 +9,7 @@ In either case you may have noticed some discrepancy: you can easily into space 
 
 Unrealistic, isnt it? Not anymore!
 With reasonable years game turns will correlate more reasonable with years shown.
-As you will see later, for the same % of gamelenght in turns there will be more years passed.
+As you will see later, for the same % of game length in turns there will be more years passed.
 For example, what was year 1944 in vanilla - will be 2010 in modded game.
 
 A brief comparasion of year/turn relation (for a standard gamespeed) is in the graph:
