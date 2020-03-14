@@ -16,3 +16,9 @@ A brief comparasion of year/turn relation (for a standard gamespeed) is in the g
 ![](graph.bmp)
 
 This is "cosmetic" change and doesn't alter gameplay in any shape or form.
+
+You can install this mod via steam (subscribe in workshop):
+https://steamcommunity.com/sharedfiles/filedetails/?id=2022612469
+
+Also it si possible to manualy install mod. To do this you need to extract zip files (Releases) to My Documents/My Games/Sid Meier's Civilization VI/Mods.
+After this start the game and click on additional content and you can enable the mod by ticking the respective checkbox.
